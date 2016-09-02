@@ -26,3 +26,4 @@ test: dev
 	tox
 
 run:
+	./smelly.py
